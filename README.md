@@ -2,7 +2,7 @@
 
 - :student: I’m currently studying web programming at ITC
 
-- :computer: I'm currently learning HTML, CSS, JS, Typescript, Nodejs, React, SQL and MongoDB
+- :computer: I'm currently learning HTML, CSS, JS, Typescript, Nodejs, React, SQL, MongoDB, Firebase
 
 - :bulb: I’m interested in how to use technology to solve problems
 
