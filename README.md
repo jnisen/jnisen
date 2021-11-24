@@ -4,7 +4,7 @@
 
 - :computer: I'm currently learning HTML, CSS, JS, Typescript, Nodejs, React, SQL, MongoDB, Firebase
 
-- 💻: Also I know Python and R
+- 💻 Also I know Python and R
 
 - :bulb: I’m interested in how to use technology to solve problems
 
