@@ -1,8 +1,8 @@
 # Hi World 👋 , I'm Jony Nisen
 
-- :student: I’m currently studying web programming at ITC
+- :Finished my bootcamp at ITC
 
-- :computer: I'm currently learning HTML, CSS, JS, Typescript, Nodejs, React, SQL, MongoDB, Firebase
+- :computer: Learned HTML, CSS, JS, Typescript, Nodejs, React, SQL, MongoDB, Firebase
 
 - 💻 Also I know Python and R
 
