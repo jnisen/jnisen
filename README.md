@@ -1,6 +1,6 @@
 # Hi World 👋 , I'm Jony Nisen
 
-- :Finished my bootcamp at ITC
+- 🎓 Finished my bootcamp at ITC
 
 - :computer: Learned HTML, CSS, JS, Typescript, Nodejs, React, SQL, MongoDB, Firebase
 
@@ -8,7 +8,7 @@
 
 - :bulb: I’m interested in how to use technology to solve problems
 
-- :round_pushpin: Living in Be'er Sheva, Israel
+- :round_pushpin: Living in Haifa, Israel
 
 - :hourglass: In my free times I enjoy doing sports and learning new things
 
